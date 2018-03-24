@@ -1,1 +1,1 @@
-"# nyc_restaurants" 
+# Everything you’ve ever wanted to know about New York City’s restaurant ratings
